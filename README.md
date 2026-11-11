@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Harsh Gour — Developer Portfolio
 
 Modern, responsive, and accessible developer portfolio engineered with **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, **Framer Motion**, and **Lucide Icons**.
@@ -95,3 +96,6 @@ npm run start
      - *Education*: B.Tech in Civil Engineering at IIT Kanpur.
    - **Contact**: Direct institutional email (`harshgour23@iitk.ac.in`), LinkedIn, and GitHub.
 
+=======
+# portfolio
+>>>>>>> 03ab160c2f7362621e36e869125e224c509e8d9f
