@@ -94,3 +94,4 @@ npm run start
      - *Students' Placement Office (SPO), IIT Kanpur*: Overall Placement Coordinator managing 200+ team and Japan Day.
      - *Education*: B.Tech in Civil Engineering at IIT Kanpur.
    - **Contact**: Direct institutional email (`harshgour23@iitk.ac.in`), LinkedIn, and GitHub.
+

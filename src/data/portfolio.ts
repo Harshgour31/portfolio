@@ -142,3 +142,4 @@ export const skillsCategories = [
     items: ["CircleCI", "Git / GitHub", "Docker", "Slack API", "CtrlB", "Linux / Bash", "Streamlit", "Framer Motion"],
   },
 ];
+
